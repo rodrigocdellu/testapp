@@ -16,7 +16,7 @@ Application developed for evaluating .NET exercises.
    cd TestApp.Console
    ```
 
-2. Execte the application:
+2. Run the application:
 
    ```
    dotnet run
