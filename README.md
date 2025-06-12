@@ -1,4 +1,21 @@
 # TestApp
-Application used to evaluate .NET exercises.
 
-Code implemented without the aid of research or artificial intelligence.
+Application developed for evaluating .NET exercises.
+
+> **Important:** All code was implemented **without the aid of research or artificial intelligence**.
+
+## Requirements
+
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+## How to Run
+
+1. Navigate to the application directory:
+
+   ```
+   cd TestApp.Console
+
+2. Execte the application:
+
+   ```
+   dotnet run
