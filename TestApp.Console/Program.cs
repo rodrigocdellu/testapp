@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Globalization;
 
-Console.WriteLine("Hello, Test App!");
+Console.WriteLine("Hello, TestApp!");
 Console.WriteLine();
 
 // Exercise 1.
