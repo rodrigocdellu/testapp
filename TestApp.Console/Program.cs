@@ -34,7 +34,7 @@ Console.WriteLine("Exercise 2: Can you write a program that reverses the charact
 var inputString1 = "A1, b2, c3$";
 
 Console.WriteLine(String.Format(CultureInfo.InvariantCulture, "    Input String 1: \"{0}\" - Expected Output String 1: 3c, 2b, 1A$", inputString1));
-Console.WriteLine(String.Format(CultureInfo.InvariantCulture, "    Output String 1: \"{0}\"", StringReverser.Reverse(inputString1)));
+Console.WriteLine(String.Format(CultureInfo.InvariantCulture, "    Output String 1: \"{0}\"", StringReverser.SpecialReverse(inputString1)));
 
 // "###%%%1234*" => "###%%%4321*"
 var inputString2 = "###%%%1234*";
